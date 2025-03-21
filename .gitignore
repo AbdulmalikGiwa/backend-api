@@ -12,3 +12,4 @@ postgres_data/
 *.dylib
 *.test
 *.out
+*.idea
