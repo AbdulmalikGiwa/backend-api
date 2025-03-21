@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Docker volumes
+postgres_data/
+
+# Build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
