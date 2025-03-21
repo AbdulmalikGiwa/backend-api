@@ -1,14 +1,14 @@
 package main
 
 import (
-	"Ahm/internal/api"
-	"Ahm/internal/api/handlers"
-	"Ahm/internal/config"
-	"Ahm/internal/domain"
-	"Ahm/internal/repository"
-	"Ahm/internal/service"
-	"Ahm/pkg/jwt"
 	"fmt"
+	"github.com/AbdulmalikGiwa/backend-api/internal/api"
+	"github.com/AbdulmalikGiwa/backend-api/internal/api/handlers"
+	"github.com/AbdulmalikGiwa/backend-api/internal/config"
+	"github.com/AbdulmalikGiwa/backend-api/internal/domain"
+	"github.com/AbdulmalikGiwa/backend-api/internal/repository"
+	"github.com/AbdulmalikGiwa/backend-api/internal/service"
+	"github.com/AbdulmalikGiwa/backend-api/pkg/jwt"
 	"log"
 	"time"
 

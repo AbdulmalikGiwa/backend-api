@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"Ahm/pkg/jwt"
+	"github.com/AbdulmalikGiwa/backend-api/pkg/jwt"
 	"net/http"
 	"strings"
 

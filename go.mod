@@ -1,4 +1,4 @@
-module Ahm
+module github.com/AbdulmalikGiwa/backend-api
 
 go 1.23.6
 

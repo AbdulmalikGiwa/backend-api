@@ -1,9 +1,9 @@
 package api
 
 import (
-	"Ahm/internal/api/handlers"
-	"Ahm/internal/api/middleware"
-	"Ahm/pkg/jwt"
+	"github.com/AbdulmalikGiwa/backend-api/internal/api/handlers"
+	"github.com/AbdulmalikGiwa/backend-api/internal/api/middleware"
+	"github.com/AbdulmalikGiwa/backend-api/pkg/jwt"
 	"github.com/gin-gonic/gin"
 )
 

@@ -1,11 +1,11 @@
 package service
 
 import (
-	"Ahm/internal/domain"
-	"Ahm/internal/repository"
-	"Ahm/pkg/hasher"
-	"Ahm/pkg/jwt"
 	"errors"
+	"github.com/AbdulmalikGiwa/backend-api/internal/domain"
+	"github.com/AbdulmalikGiwa/backend-api/internal/repository"
+	"github.com/AbdulmalikGiwa/backend-api/pkg/hasher"
+	"github.com/AbdulmalikGiwa/backend-api/pkg/jwt"
 )
 
 type AuthService struct {

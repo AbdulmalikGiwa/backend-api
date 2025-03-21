@@ -2,8 +2,8 @@
 package repository
 
 import (
-	"Ahm/internal/domain"
 	"errors"
+	"github.com/AbdulmalikGiwa/backend-api/internal/domain"
 
 	"gorm.io/gorm"
 )

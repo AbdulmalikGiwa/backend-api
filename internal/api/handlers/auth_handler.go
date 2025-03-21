@@ -1,8 +1,8 @@
 package handlers
 
 import (
-	"Ahm/internal/domain"
-	"Ahm/internal/service"
+	"github.com/AbdulmalikGiwa/backend-api/internal/domain"
+	"github.com/AbdulmalikGiwa/backend-api/internal/service"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

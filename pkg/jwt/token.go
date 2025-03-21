@@ -2,8 +2,8 @@
 package jwt
 
 import (
-	"Ahm/internal/domain"
 	"errors"
+	"github.com/AbdulmalikGiwa/backend-api/internal/domain"
 	"time"
 
 	"github.com/golang-jwt/jwt/v4"
